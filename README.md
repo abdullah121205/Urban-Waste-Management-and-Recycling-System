@@ -50,3 +50,13 @@ Current Classification
 | Moisture | Value ≥ 2000 | Dry Waste |
 
 > Note: The moisture threshold is a provisional value and should be calibrated according to the sensor and waste conditions.
+
+Future Enhancements
+  *AI-based waste classification
+  *IoT cloud monitoring
+  *Real-time bin fill-level monitoring
+  *GPS-based waste collection route optimization
+  *Mobile/web dashboard
+  *Automated waste segregation
+  *Smart collection alerts
+  *Recycling and waste-processing analytic
